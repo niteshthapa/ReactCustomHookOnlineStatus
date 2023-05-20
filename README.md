@@ -8,7 +8,7 @@ To use this custom hook in a component, you can import and invoke it like this:
 
 In this example, the isOnline variable holds the current online status value returned by the useOnlineStatus hook. It is then rendered in the component, displaying either "Online" or "Offline" based on the value.
 
-
+[Demo](https://stackblitz.com/edit/react-6fx2mi?file=src%2Fhooks%2FuseStatus.js,src%2FApp.js)
 
 
 
