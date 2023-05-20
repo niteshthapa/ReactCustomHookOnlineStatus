@@ -6,5 +6,10 @@ Inside the useEffect hook, we add event listeners for the online and offline eve
 
 To use this custom hook in a component, you can import and invoke it like this:
 
+In this example, the isOnline variable holds the current online status value returned by the useOnlineStatus hook. It is then rendered in the component, displaying either "Online" or "Offline" based on the value.
+
+
+
+
 
 
