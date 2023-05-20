@@ -4,5 +4,7 @@ In this example, we define a custom hook called useOnlineStatus. It uses the use
 
 Inside the useEffect hook, we add event listeners for the online and offline events. When the online event is triggered, we update the isOnline state to true, and when the offline event is triggered, we update it to false.
 
+To use this custom hook in a component, you can import and invoke it like this:
+
 
 
